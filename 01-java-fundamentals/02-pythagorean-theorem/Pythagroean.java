@@ -5,5 +5,4 @@ public class Pythagroean {
         Double hyp = Math.hypot(legA, legB);
         return hyp;
     }
-
 }
